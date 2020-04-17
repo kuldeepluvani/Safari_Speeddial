@@ -12,12 +12,40 @@ var favorites = [
     url: "http://stackoverflow.com"
   },
   {
+    name: "Confluence",
+    url: "https://zefrinc.atlassian.net/wiki/home"
+  },
+  {
+    name: "Jira",
+    url: "https://zefrinc.atlassian.net/jira/software/projects/DE/boards/259"
+  },
+  {
+    name: "ADP",
+    url: "https://workforcenow.adp.com/theme/index.html"
+  },
+  {
     name: "Wolfram Alpha",
     url: "https://www.wolframalpha.com/"
   },
   {
-    name: "Readability",
-    url: "https://www.readability.com/reading-list"
+    name: "Gmail",
+    url: "https://mail.google.com/mail/u/0/?ogbl#inbox"
+  },
+  {
+    name: "Google Drive",
+    url: "https://drive.google.com/drive/u/0/my-drive"
+  },
+  {
+    name: "Google",
+    url: "https://www.google.com"
+  },
+  {
+    name: "Google Admin",
+    url: "https://admin.google.com/"
+  },
+  {
+    name: "YouTube",
+    url: "https://www.youtube.com"
   },
   {
     name: "feedly",
@@ -40,8 +68,8 @@ var favorites = [
     url: "https://dribbble.com"
   },
   {
-    name: "deviantArt",
-    url: "http://www.deviantart.com/"
+    name: "python",
+    url: "http://pythontutor.com/live.html#mode=edit"
   },
   {
     name: "Instagram",
@@ -52,24 +80,12 @@ var favorites = [
     url: "https://www.flickr.com"
   },
   {
-    name: "Dropbox",
-    url: "https://www.dropbox.com/home"
-  },
-  {
-    name: "Google Drive",
-    url: "https://drive.google.com/drive/u/0/my-drive"
-  },
-  {
     name: "WhatsApp",
     url:"https://web.whatsapp.com"
   },
   {
     name: "DreamHost",
     url: "https://panel.dreamhost.com/index.cgi"
-  },
-  {
-    name: "Google Admin",
-    url: "https://admin.google.com/"
   },
   {
     name: "MailChimp",
@@ -82,14 +98,6 @@ var favorites = [
   {
     name: "PayPal",
     url: "https://www.paypal.com/home"
-  },
-  {
-    name: "Deutsche Bank",
-    url: "https://meine.deutsche-bank.de/trxm/db/"
-  },
-  {
-    name: "barclaycard",
-    url: "https://banking.barclaycard.de/bir/feature/loginprocess?"
   },
   {
     name: "us bank",
@@ -116,20 +124,12 @@ var favorites = [
     url: "https://www.icloud.com"
   },
   {
-    name: "Google",
-    url: "https://www.google.com"
-  },
-  {
     name: "IMDB",
     url: "http://www.imdb.com/sections/dvd"
   },
   {
     name: "Trakt tv",
     url: "https://trakt.tv"
-  },
-  {
-    name: "YouTube",
-    url: "https://www.youtube.com"
   },
   {
     name: "Netflix",
