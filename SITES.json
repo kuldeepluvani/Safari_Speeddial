@@ -136,12 +136,12 @@ var favorites = [
     url: "http://www.netflix.com/browse"
   },
   {
-    name: "Sick Beard",
-    url: ""
+    name: "longbeachutility",
+    url: "http://www.longbeach.gov/utilityservices/"
   },
   {
-    name: "CouchPotato",
-    url: ""
+    name: "SCE",
+    url: "https://www.sce.com"
   },
   {
     name: "NZBGet",
