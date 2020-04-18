@@ -24,8 +24,12 @@ var favorites = [
     url: "https://workforcenow.adp.com/theme/index.html"
   },
   {
-    name: "Wolfram Alpha",
-    url: "https://www.wolframalpha.com/"
+    name: "feedly",
+    url: "http://feedly.com/i/my"
+  },
+  {
+    name: "python",
+    url: "http://pythontutor.com/live.html#mode=edit"
   },
   {
     name: "Gmail",
@@ -48,20 +52,12 @@ var favorites = [
     url: "https://www.youtube.com"
   },
   {
-    name: "feedly",
-    url: "http://feedly.com/i/my"
-  },
-  {
     name: "Twitter",
     url: "https://twitter.com"
   },
   {
     name: "Linked in",
     url: "https://www.linkedin.com/in/kuldeepluvani/"
-  },
-  {
-    name: "python",
-    url: "http://pythontutor.com/live.html#mode=edit"
   },
   {
     name: "WhatsApp",
@@ -101,18 +97,22 @@ var favorites = [
   },
   {
     name: "Frontier",
-    url: ""
+    url: "https://frontier.com/login"
   },
   {
     name: "WeBull",
-    url: ""
+    url: "http://www.webull.com/"
   },
   {
     name: "Robinhood",
-    url: ""
+    url: "https://robinhood.com/login"
   },
   {
     name: "YahooFinance",
-    url: ""
+    url: "https://finance.yahoo.com/"
+  },
+  {
+    name: "Wolfram Alpha",
+    url: "https://www.wolframalpha.com/"
   }
 ];
