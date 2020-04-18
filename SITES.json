@@ -40,8 +40,8 @@ var favorites = [
     url: "https://www.google.com"
   },
   {
-    name: "Google Admin",
-    url: "https://admin.google.com/"
+    name: "Google Meet",
+    url: "https://meet.google.com/"
   },
   {
     name: "YouTube",
@@ -56,52 +56,52 @@ var favorites = [
     url: "https://twitter.com"
   },
   {
-    name: "Facebook",
-    url: "https://www.facebook.com"
+    name: "",
+    url: ""
   },
   {
     name: "Linked in",
-    url: "https://www.linkedin.com"
+    url: "https://www.linkedin.com/in/kuldeepluvani/"
   },
   {
-    name: "dribbble",
-    url: "https://dribbble.com"
+    name: "",
+    url: ""
   },
   {
     name: "python",
     url: "http://pythontutor.com/live.html#mode=edit"
   },
   {
-    name: "Instagram",
-    url: "https://instagram.com/"
+    name: "",
+    url: ""
   },
   {
-    name: "Flickr",
-    url: "https://www.flickr.com"
+    name: "",
+    url: ""
   },
   {
     name: "WhatsApp",
-    url:"https://web.whatsapp.com"
+    url: "https://web.whatsapp.com"
   },
   {
-    name: "DreamHost",
-    url: "https://panel.dreamhost.com/index.cgi"
+    name: "",
+    url: ""
   },
   {
-    name: "MailChimp",
-    url: "https://login.mailchimp.com/"
+    name: "",
+    url: ""
   },
   {
-    name: "Kijani",
-    url: "http://blog.kijani.ngo/admin"
+    name: "",
+    url: ""
   },
   {
     name: "PayPal",
     url: "https://www.paypal.com/home"
   },
   {
-    name: "us bank",
-    url: "https://www.usbank.com/index.html"
+    name: "",
+    url: ""
   },
   {
     name: "eBay",
@@ -112,12 +112,12 @@ var favorites = [
     url: "http://www.amazon.com"
   },
   {
-    name: "idealo",
-    url: "http://www.idealo.de"
+    name: "",
+    url: ""
   },
   {
-    name: "boerse",
-    url: "http://boerse.sx/"
+    name: "",
+    url: ""
   },
   {
     name: "iCloud",
@@ -128,8 +128,8 @@ var favorites = [
     url: "http://www.imdb.com/sections/dvd"
   },
   {
-    name: "Trakt tv",
-    url: "https://trakt.tv"
+    name: "",
+    url: ""
   },
   {
     name: "Netflix",
@@ -144,19 +144,19 @@ var favorites = [
     url: "https://www.sce.com"
   },
   {
-    name: "NZBGet",
+    name: "",
     url: ""
   },
   {
-    name: "DOGnzb",
+    name: "",
     url: ""
   },
   {
-    name: "Plex",
+    name: "",
     url: ""
   },
   {
-    name: "Synology",
+    name: "",
     url: ""
   }
 ];
