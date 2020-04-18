@@ -56,52 +56,20 @@ var favorites = [
     url: "https://twitter.com"
   },
   {
-    name: "",
-    url: ""
-  },
-  {
     name: "Linked in",
     url: "https://www.linkedin.com/in/kuldeepluvani/"
-  },
-  {
-    name: "",
-    url: ""
   },
   {
     name: "python",
     url: "http://pythontutor.com/live.html#mode=edit"
   },
   {
-    name: "",
-    url: ""
-  },
-  {
-    name: "",
-    url: ""
-  },
-  {
     name: "WhatsApp",
     url: "https://web.whatsapp.com"
   },
   {
-    name: "",
-    url: ""
-  },
-  {
-    name: "",
-    url: ""
-  },
-  {
-    name: "",
-    url: ""
-  },
-  {
     name: "PayPal",
     url: "https://www.paypal.com/home"
-  },
-  {
-    name: "",
-    url: ""
   },
   {
     name: "eBay",
@@ -112,24 +80,12 @@ var favorites = [
     url: "http://www.amazon.com"
   },
   {
-    name: "",
-    url: ""
-  },
-  {
-    name: "",
-    url: ""
-  },
-  {
     name: "iCloud",
     url: "https://www.icloud.com"
   },
   {
     name: "IMDB",
     url: "http://www.imdb.com/sections/dvd"
-  },
-  {
-    name: "",
-    url: ""
   },
   {
     name: "Netflix",
@@ -144,19 +100,19 @@ var favorites = [
     url: "https://www.sce.com"
   },
   {
-    name: "",
+    name: "Frontier",
     url: ""
   },
   {
-    name: "",
+    name: "WeBull",
     url: ""
   },
   {
-    name: "",
+    name: "Robinhood",
     url: ""
   },
   {
-    name: "",
+    name: "YahooFinance",
     url: ""
   }
 ];
