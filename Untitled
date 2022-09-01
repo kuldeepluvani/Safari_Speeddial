@@ -1,0 +1,48 @@
+  http POST http://0.0.0.0:9000/api/v1.0/predictions << EOF
+  { "jsonData":{
+       "data": [
+                {
+                  "content_id": "Qr5NixKgrz8",
+                  "duration": 50,
+                  "title": "'Around Town' Teaser | Dexter | SHOWTIME",
+                  "description": "",
+                  "yt_tags": [
+                      "Dexter Morgan",
+                      "blood",
+                      "dexter",
+                      "Debra",
+                      "Debra Morgan",
+                      "crime drama",
+                      "dexter new season"
+                  ],
+                  "privacy_status": "removed"
+              },
+              {
+                "content_id": "PR5NixKgrz8",
+                "duration": 50,
+                "title": "'Around Town' Teaser | Dexter | SHOWTIME",
+                "description": "",
+                "yt_tags": [
+                    "crime drama",
+                    "dexter new season"
+                ],
+                "privacy_status": "public"
+            }
+            ]
+        }
+  }
+EOF
+
+
+
+[
+        [
+            {
+                "content_id": "test2",
+                "title": "Profanity test",
+                "derived": {
+                    "taxonomy_scores": {}
+                },
+            }
+        ]
+    ]

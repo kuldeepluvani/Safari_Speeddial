@@ -1,7 +1,7 @@
 var favorites = [
   {
-    name: "localhost",
-    url: "http://localhost/"
+    name: "Zoom",
+    url: "http://go/zoom"
   },
   {
     name: "GitHub",
@@ -21,7 +21,7 @@ var favorites = [
   },
   {
     name: "ADP",
-    url: "https://workforcenow.adp.com/theme/index.html"
+    url: "https://my.adp.com/static/redbox/?route=retirement/enrolle168&ClickTo=Enroll_Now&source=outlook&cid=A12ZQE72151CZF3Y#/dashboard"
   },
   {
     name: "feedly",
